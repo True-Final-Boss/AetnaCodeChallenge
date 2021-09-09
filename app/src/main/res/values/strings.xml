@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CodeChallengeCVS</string>
+    <string name="title">Title: %1$s</string>
+    <string name="author">Author: %1$s</string>
+    <string name="detail">Description: \n%1$s</string>
+    <string name="width">Width: %1$s</string>
+    <string name="height">Height: %1$s</string>
+    <string name="ada_image_container">Image container</string>
+</resources>
